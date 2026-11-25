@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Claude t\'appelle</string>
+    <item name="callerName" type="id" />
+</resources>
